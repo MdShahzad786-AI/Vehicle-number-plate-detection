@@ -1,0 +1,23 @@
+# Python cache
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Environments
+.venv/
+venv/
+ENV/
+env/
+
+# ML Models (YOLO model is ~6MB, code will download it automatically)
+yolov8n.pt
+models/
+
+# Generated outputs and datasets
+data/output/
+data/videos/
+.streamlit/
+
+# OS specific files
+.DS_Store
+Thumbs.db
