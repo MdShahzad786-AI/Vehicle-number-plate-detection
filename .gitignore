@@ -16,8 +16,7 @@ models/
 # Generated outputs and datasets
 data/output/
 data/videos/
-.streamlit/
-
 # OS specific files
 .DS_Store
 Thumbs.db
+
